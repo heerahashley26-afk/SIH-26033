@@ -94,3 +94,4 @@ FarmDirect aims to create a fairer agricultural supply chain in which farmers re
 6. Scikit-learn Documentation — https://scikit-learn.org/
 
 These references provide background information on agricultural markets, digital services, and technologies relevant to the proposed solution.
+<img width="1312" height="1199" alt="Smart Agriculture Marketplace Technical Approach (1)" src="https://github.com/user-attachments/assets/ff66ba6c-7071-4d33-a9e8-14ea1d0a332d" />
